@@ -24,3 +24,8 @@ Please find a summary of key projects below.
 
 ## Previous Release :
 NA
+
+| Header 1 | Header 2 |
+|---|---|
+| Value 1 | Value 2 |
+
