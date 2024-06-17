@@ -25,7 +25,7 @@ Please find a summary of key projects below.
 ## Previous Release :
 NA
 
-| Header 1 | Header 2 |
+| Sub Project | Repo URL |
 |---|---|
-| Value 1 | Value 2 |
+| udr | [repo](https://github.com/ios-mcn-core/udr) |
 
