@@ -27,5 +27,5 @@ NA
 
 | Sub Project | Repo URL |
 |---|---|
-| udr | [repo](https://github.com/ios-mcn-core/udr) |
+| udr | [udr](https://github.com/ios-mcn-core/udr) |
 
